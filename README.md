@@ -6,6 +6,10 @@ Este projeto faz parte do meu portfolio de transicao para a area de dados e foi 
 
 > Status: versao 0.1 funcional com base simulada. A proxima etapa sera substituir ou complementar os dados com vagas reais coletadas de fontes publicas ou exportacoes manuais.
 
+## Preview
+
+![Preview do dashboard](assets/dashboard-preview.png)
+
 ## Sumario
 
 - [Objetivo](#objetivo)
