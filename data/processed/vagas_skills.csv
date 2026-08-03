@@ -1,0 +1,66 @@
+id,titulo,nivel,modalidade,estado,skill
+1,Estagio em Data Analytics,Estagio,Hibrido,SP,SQL
+1,Estagio em Data Analytics,Estagio,Hibrido,SP,Python
+1,Estagio em Data Analytics,Estagio,Hibrido,SP,Power BI
+1,Estagio em Data Analytics,Estagio,Hibrido,SP,Excel
+2,Estagiario de BI,Estagio,Presencial,PR,SQL
+2,Estagiario de BI,Estagio,Presencial,PR,Power BI
+2,Estagiario de BI,Estagio,Presencial,PR,Excel
+2,Estagiario de BI,Estagio,Presencial,PR,Google Sheets
+3,Analista de Dados Junior,Junior,Hibrido,RJ,SQL
+3,Analista de Dados Junior,Junior,Hibrido,RJ,Python
+3,Analista de Dados Junior,Junior,Hibrido,RJ,Pandas
+4,Estagio em Dados,Estagio,Remoto,MG,SQL
+4,Estagio em Dados,Estagio,Remoto,MG,Excel
+4,Estagio em Dados,Estagio,Remoto,MG,Google Sheets
+4,Estagio em Dados,Estagio,Remoto,MG,Looker Studio
+5,Assistente de Dados,Entrada,Presencial,SP,Excel
+6,Analista BI Junior,Junior,Hibrido,SP,SQL
+6,Analista BI Junior,Junior,Hibrido,SP,Power BI
+6,Analista BI Junior,Junior,Hibrido,SP,DAX
+7,Estagiario Analytics,Estagio,Remoto,SC,SQL
+7,Estagiario Analytics,Estagio,Remoto,SC,Python
+7,Estagiario Analytics,Estagio,Remoto,SC,Pandas
+8,Data Analyst Intern,Estagio,Hibrido,SP,SQL
+8,Data Analyst Intern,Estagio,Hibrido,SP,Python
+8,Data Analyst Intern,Estagio,Hibrido,SP,Power BI
+9,Analista de Dados Junior,Junior,Remoto,RS,SQL
+9,Analista de Dados Junior,Junior,Remoto,RS,Python
+9,Analista de Dados Junior,Junior,Remoto,RS,Estatistica
+10,Estagio em Business Intelligence,Estagio,Presencial,PE,SQL
+10,Estagio em Business Intelligence,Estagio,Presencial,PE,Power BI
+10,Estagio em Business Intelligence,Estagio,Presencial,PE,Excel
+11,Assistente de BI,Entrada,Hibrido,GO,SQL
+12,Estagiario de Dados,Estagio,Remoto,SP,Python
+12,Estagiario de Dados,Estagio,Remoto,SP,Power BI
+12,Estagiario de Dados,Estagio,Remoto,SP,Google Sheets
+12,Estagiario de Dados,Estagio,Remoto,SP,APIs
+13,Analista de Dados Junior,Junior,Hibrido,BA,SQL
+13,Analista de Dados Junior,Junior,Hibrido,BA,Python
+13,Analista de Dados Junior,Junior,Hibrido,BA,Excel
+14,Estagio em BI,Estagio,Hibrido,SP,SQL
+14,Estagio em BI,Estagio,Hibrido,SP,Power BI
+15,Analista de Dados Jr,Junior,Remoto,RJ,SQL
+15,Analista de Dados Jr,Junior,Remoto,RJ,Pandas
+16,Estagiario Data Analytics,Estagio,Hibrido,DF,SQL
+16,Estagiario Data Analytics,Estagio,Hibrido,DF,Python
+16,Estagiario Data Analytics,Estagio,Hibrido,DF,Excel
+17,Assistente de Dados,Entrada,Presencial,SC,Excel
+18,Analista BI Junior,Junior,Remoto,SP,SQL
+18,Analista BI Junior,Junior,Remoto,SP,Power BI
+18,Analista BI Junior,Junior,Remoto,SP,Looker Studio
+19,Estagio em Analytics,Estagio,Remoto,CE,SQL
+19,Estagio em Analytics,Estagio,Remoto,CE,Python
+19,Estagio em Analytics,Estagio,Remoto,CE,Google Sheets
+20,Analista de Dados Junior,Junior,Hibrido,PR,SQL
+20,Analista de Dados Junior,Junior,Hibrido,PR,Pandas
+21,Estagiario de BI,Estagio,Hibrido,SP,SQL
+21,Estagiario de BI,Estagio,Hibrido,SP,Power BI
+21,Estagiario de BI,Estagio,Hibrido,SP,Excel
+22,Assistente de Analytics,Entrada,Presencial,RJ,Looker Studio
+23,Estagio em Dados,Estagio,Remoto,SP,SQL
+23,Estagio em Dados,Estagio,Remoto,SP,Python
+23,Estagio em Dados,Estagio,Remoto,SP,Pandas
+23,Estagio em Dados,Estagio,Remoto,SP,Estatistica
+24,Analista de Dados Junior,Junior,Hibrido,SP,SQL
+24,Analista de Dados Junior,Junior,Hibrido,SP,Power BI
