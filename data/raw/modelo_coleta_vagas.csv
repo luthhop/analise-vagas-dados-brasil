@@ -1,0 +1,2 @@
+id,data_coleta,fonte,url,titulo,empresa,localidade,estado,modalidade,nivel,salario_min,salario_max,descricao
+1,2026-08-10,LinkedIn,https://exemplo.com/vaga,Estagio em Dados,Empresa Exemplo,Sao Paulo,SP,Hibrido,Estagio,1500,2000,"Apoiar analises com SQL, Excel, Power BI e Python."

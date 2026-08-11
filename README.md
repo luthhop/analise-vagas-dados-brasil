@@ -18,6 +18,7 @@ Este projeto faz parte do meu portfolio de transicao para a area de dados e foi 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Estrutura do projeto](#estrutura-do-projeto)
 - [Como executar](#como-executar)
+- [Coleta de dados reais](#coleta-de-dados-reais)
 - [Metodologia AI-assisted](#metodologia-ai-assisted)
 - [Aprendizados](#aprendizados)
 - [Roadmap](#roadmap)
@@ -154,6 +155,14 @@ Abra o dashboard:
 streamlit run dashboard/app.py
 ```
 
+## Coleta de dados reais
+
+A proxima evolucao do projeto e complementar a base simulada com vagas reais coletadas manualmente.
+
+Para isso, foi criado um guia de coleta em [`docs/coleta_manual.md`](docs/coleta_manual.md) e um modelo de preenchimento em [`data/raw/modelo_coleta_vagas.csv`](data/raw/modelo_coleta_vagas.csv).
+
+Nesta etapa, a proposta e coletar entre **30 e 50 vagas** de entrada em dados, evitando scraping automatico e mantendo rastreabilidade das fontes.
+
 ## Metodologia AI-assisted
 
 Este projeto foi desenvolvido com apoio de IA generativa como parceira de desenvolvimento.
@@ -199,6 +208,7 @@ Este projeto pratica conceitos importantes para uma primeira oportunidade em dad
 - [x] Criar consultas SQL
 - [x] Gerar relatorio executivo
 - [x] Criar dashboard Streamlit
+- [x] Criar guia para coleta manual de vagas reais
 - [ ] Substituir ou complementar a base simulada com dados reais
 - [ ] Adicionar notebook de EDA
 - [ ] Criar visualizacoes para o README
