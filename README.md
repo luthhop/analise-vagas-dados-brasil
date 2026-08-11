@@ -19,6 +19,7 @@ Este projeto faz parte do meu portfolio de transicao para a area de dados e foi 
 - [Estrutura do projeto](#estrutura-do-projeto)
 - [Como executar](#como-executar)
 - [Coleta de dados reais](#coleta-de-dados-reais)
+- [Materiais de portfolio](#materiais-de-portfolio)
 - [Metodologia AI-assisted](#metodologia-ai-assisted)
 - [Aprendizados](#aprendizados)
 - [Roadmap](#roadmap)
@@ -97,7 +98,12 @@ O relatorio completo esta em [`reports/resumo_executivo.md`](reports/resumo_exec
 |   |   |-- vagas_skills.csv
 |   |   `-- vagas_tratadas.csv
 |   `-- raw/
+|       |-- modelo_coleta_vagas.csv
 |       `-- vagas_dados_br.csv
+|-- docs/
+|   |-- case_portfolio.md
+|   |-- coleta_manual.md
+|   `-- post_linkedin.md
 |-- queries/
 |   |-- 01_top_skills.sql
 |   |-- 02_vagas_por_modalidade.sql
@@ -163,6 +169,13 @@ Para isso, foi criado um guia de coleta em [`docs/coleta_manual.md`](docs/coleta
 
 Nesta etapa, a proposta e coletar entre **30 e 50 vagas** de entrada em dados, evitando scraping automatico e mantendo rastreabilidade das fontes.
 
+## Materiais de portfolio
+
+Tambem foram preparados materiais auxiliares para apresentar e divulgar o projeto:
+
+- [`docs/case_portfolio.md`](docs/case_portfolio.md): resumo do projeto em formato de case para portfolio e entrevistas.
+- [`docs/post_linkedin.md`](docs/post_linkedin.md): rascunho de post para divulgar o projeto no LinkedIn.
+
 ## Metodologia AI-assisted
 
 Este projeto foi desenvolvido com apoio de IA generativa como parceira de desenvolvimento.
@@ -212,7 +225,7 @@ Este projeto pratica conceitos importantes para uma primeira oportunidade em dad
 - [ ] Substituir ou complementar a base simulada com dados reais
 - [ ] Adicionar notebook de EDA
 - [ ] Criar visualizacoes para o README
-- [ ] Publicar post no LinkedIn com os principais insights
+- [x] Preparar rascunho de post para LinkedIn
 - [ ] Evoluir para dashboard em Power BI
 
 ## Observacao sobre os dados
